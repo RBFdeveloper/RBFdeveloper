@@ -75,9 +75,11 @@ Applications focused on:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=github_dark"/>
+## 📊 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBFdeveloper&layout=compact&theme=github_dark"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=RBFdeveloper&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
