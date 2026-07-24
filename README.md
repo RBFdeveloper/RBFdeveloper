@@ -1,16 +1,69 @@
-## Hi there 👋
+# Olá, eu sou RBFdeveloper 👋
 
-<!--
-**RBFdeveloper/RBFdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor de soluções para gestão e automação de processos
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e transformação de processos através de dados e automações.
+
+Atuo criando soluções para:
+
+- 📊 Gestão de indicadores
+- ⚙️ Automação de processos
+- 🏭 Sistemas operacionais
+- 📈 Análise de dados
+- 🔗 Integrações e APIs
+
+---
+
+## Tecnologias
+
+💻 Desenvolvimento
+
+- JavaScript
+- React
+- Python
+- HTML / CSS
+
+🗄️ Banco de Dados
+
+- PostgreSQL
+- Supabase
+- SQL
+
+🛠️ Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Power BI
+
+---
+
+## Projetos em destaque
+
+🚛 **Sistema de Gestão da Oficina**
+
+Sistema para controle operacional, indicadores e acompanhamento de processos.
+
+📊 **Dashboards de Performance**
+
+Soluções para acompanhamento de resultados e tomada de decisão.
+
+⚙️ **Automação de Processos**
+
+Robôs e integrações para reduzir tarefas manuais.
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBFdeveloper&layout=compact&theme=dark)
+
+---
+
+## Contato
+
+💼 GitHub: https://github.com/RBFdeveloper
