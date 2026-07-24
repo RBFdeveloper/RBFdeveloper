@@ -2,46 +2,71 @@
 
 # RBFdeveloper
 
-### Development • Automation • Data • Systems
+### Software Development • Automation • Data & Systems
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👋 About me
 
-Desenvolvedor focado em criar soluções digitais, automações e sistemas que resolvem problemas reais.
+Hi, I'm Ramon.
 
-Interesses:
+I build software solutions focused on process automation, data analysis and operational systems.
 
-- 💻 Desenvolvimento de sistemas
-- ⚙️ Automação de processos
-- 📊 Dados e indicadores
-- 🗄️ Banco de dados
+My main interests are:
 
-
----
-
-## 🛠️ Tecnologias
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,supabase,postgres,git,vscode" />
+- Backend development
+- Database design
+- Automation workflows
+- Business intelligence
+- Building tools that solve real problems
 
 
 ---
 
-## 🚀 Projetos
+## 🛠️ Technologies
+
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
+
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-333333?style=flat&logo=supabase)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+
+
+---
+
+## 🚀 Projects
+
 
 ### Sistema de Gestão da Oficina
 
-Sistema para controle operacional, indicadores e melhoria de processos.
+A management platform developed to organize operational data, indicators and workflows.
 
-**Tecnologias:**
-React • Supabase • PostgreSQL
+Main concepts:
+
+- Authentication and permissions
+- Database modeling
+- Data visualization
+- Process automation
 
 
-### Automação & Dados
+### Data & Automation Tools
 
-Soluções para transformar processos manuais em fluxos automatizados.
+Applications focused on:
+
+- Reducing manual activities
+- Organizing operational information
+- Improving decision making
 
 
 ---
@@ -50,15 +75,23 @@ Soluções para transformar processos manuais em fluxos automatizados.
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=github_dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=github_dark"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBFdeveloper&layout=compact&theme=github_dark"/>
 
 </div>
 
 
 ---
 
+## 📫 Contact
+
+GitHub: [@RBFdeveloper](https://github.com/RBFdeveloper)
+
+---
+
 <div align="center">
 
-Construindo soluções. Automatizando processos. Evoluindo sempre.
+"Building solutions, learning every day."
 
 </div>
