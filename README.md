@@ -6,17 +6,21 @@
 
 ### Software Development • Automation • Data Systems
 
+
+<a href="https://www.linkedin.com/in/ramon-barbosa-ferreira/" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=RBFdeveloper&style=for-the-badge&color=00ffff"/>
+</a>
 
 </div>
 
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 ```yaml
 name: Ramon Barbosa
+
 focus:
   - Software Development
   - Process Automation
@@ -24,18 +28,18 @@ focus:
   - System Integration
 
 currently:
-  Building solutions that connect technology,
-  data and business processes.
+  Building applications that connect
+  technology, data and business processes.
 ```
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Technologies
 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,postgres,supabase,git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,postgres,supabase,git,docker,vscode,linux" />
 
 </div>
 
@@ -47,23 +51,23 @@ currently:
 
 ### 🏭 Management Systems
 
-Applications focused on:
+Development of applications focused on:
 
 ```
 ✓ Operational control
 ✓ Data organization
 ✓ User management
-✓ Process improvement
+✓ Process optimization
 ```
 
 
 ### 📊 Data & Analytics
 
-Solutions for:
+Solutions focused on:
 
 ```
 ✓ Dashboards
-✓ Indicators
+✓ Performance indicators
 ✓ Data processing
 ✓ Decision support
 ```
@@ -71,46 +75,34 @@ Solutions for:
 
 ### ⚙️ Automation
 
-Building tools to:
+Building tools for:
 
 ```
-✓ Reduce manual tasks
-✓ Integrate systems
-✓ Improve workflows
+✓ Process automation
+✓ System integration
+✓ Workflow improvement
 ```
 
 
 ---
 
-## 📌 Currently Learning
+## 📚 Currently Learning
 
 ```
 → Software Architecture
 → Backend Development
-→ Cloud Infrastructure
+→ Cloud Solutions
 → Database Optimization
 ```
 
 
 ---
 
-## 📈 GitHub Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RBFdeveloper&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
----
-
-## 💻 Terminal
+## 💻 Developer Terminal
 
 
 ```bash
-$ user
+$ whoami
 
 RBFdeveloper
 
@@ -124,8 +116,26 @@ data
 
 $ status
 
-online ✓
+ONLINE ✓
 ```
+
+
+---
+
+## 🔗 Connect
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ramon-barbosa-ferreira/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ramon%20Barbosa-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/RBFdeveloper" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-RBFdeveloper-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 
 ---
@@ -133,6 +143,7 @@ online ✓
 <div align="center">
 
 ### Build • Automate • Improve
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00FFFF&height=100&section=footer"/>
 
