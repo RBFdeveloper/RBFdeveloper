@@ -1,46 +1,43 @@
 <div align="center">
 
-# RBFdeveloper
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00FFFF,100:090979&height=200&section=header&text=RBFdeveloper&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
 
-### Software Development • Automation • Data & Systems
+# ⚡ RBFdeveloper
+
+### Software Development • Automation • Data Systems
+
+<img src="https://komarev.com/ghpvc/?username=RBFdeveloper&style=for-the-badge&color=00ffff"/>
 
 </div>
 
----
-
-## 👋 About me
-
-Hi, I'm Ramon.
-
-I build software solutions focused on process automation, data analysis and operational systems.
-
-My main interests are:
-
-- Backend development
-- Database design
-- Automation workflows
-- Business intelligence
-- Building tools that solve real problems
-
 
 ---
 
-## 🛠️ Technologies
+## 👨‍💻 About
+
+```yaml
+name: Ramon Barbosa
+focus:
+  - Software Development
+  - Process Automation
+  - Data Analysis
+  - System Integration
+
+currently:
+  Building solutions that connect technology,
+  data and business processes.
+```
+
+---
+
+## ⚙️ Stack
 
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,postgres,supabase,git,docker,vscode" />
 
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![Supabase](https://img.shields.io/badge/Supabase-333333?style=flat&logo=supabase)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+</div>
 
 
 ---
@@ -48,52 +45,95 @@ My main interests are:
 ## 🚀 Projects
 
 
-### Sistema de Gestão da Oficina
-
-A management platform developed to organize operational data, indicators and workflows.
-
-Main concepts:
-
-- Authentication and permissions
-- Database modeling
-- Data visualization
-- Process automation
-
-
-### Data & Automation Tools
+### 🏭 Management Systems
 
 Applications focused on:
 
-- Reducing manual activities
-- Organizing operational information
-- Improving decision making
+```
+✓ Operational control
+✓ Data organization
+✓ User management
+✓ Process improvement
+```
+
+
+### 📊 Data & Analytics
+
+Solutions for:
+
+```
+✓ Dashboards
+✓ Indicators
+✓ Data processing
+✓ Decision support
+```
+
+
+### ⚙️ Automation
+
+Building tools to:
+
+```
+✓ Reduce manual tasks
+✓ Integrate systems
+✓ Improve workflows
+```
 
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Currently Learning
+
+```
+→ Software Architecture
+→ Backend Development
+→ Cloud Infrastructure
+→ Database Optimization
+```
+
+
+---
+
+## 📈 GitHub Activity
+
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RBFdeveloper&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBFdeveloper&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RBFdeveloper&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
 ---
 
-## 📫 Contact
+## 💻 Terminal
 
-GitHub: [@RBFdeveloper](https://github.com/RBFdeveloper)
+
+```bash
+$ user
+
+RBFdeveloper
+
+
+$ focus
+
+software
+automation
+data
+
+
+$ status
+
+online ✓
+```
+
 
 ---
 
 <div align="center">
 
-"Building solutions, learning every day."
+### Build • Automate • Improve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00FFFF&height=100&section=footer"/>
 
 </div>
